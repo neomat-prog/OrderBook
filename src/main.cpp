@@ -34,6 +34,8 @@ void demonstrateBasicOrders()
     std::cout << "Is filled? " << (order1->isFilled() ? "Yes" : "No") << std::endl;
 }
 
+// TEST PURPOSES ONLY ---
+
 void demonstrateOrderBook()
 {
     printSeparator("ORDER BOOK DEMONSTRATION");
